@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chess.js": "^1.0.0",
+    "chessboardjsx": "^2.4.7",
+    "react-compound-timer": "^2.0.5"
+  }
+}
